@@ -3,7 +3,7 @@ def display_board
   2.times do
     print("   |   |   \n-----------\n")
   end
-  print("   |   |   ")
+  print("   |   |   "\n)
 end
 
 display_board
