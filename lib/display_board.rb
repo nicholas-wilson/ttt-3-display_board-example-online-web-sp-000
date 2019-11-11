@@ -5,3 +5,5 @@ def display_board
   end
   print("   |   |   ")
 end
+
+display_board
